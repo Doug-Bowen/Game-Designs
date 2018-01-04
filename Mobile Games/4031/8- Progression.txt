@@ -1,0 +1,3 @@
+detail in game currency, shop, and "constant" cards here.
+
+constant cards are those that are brought into a game. (not generated @ the start)

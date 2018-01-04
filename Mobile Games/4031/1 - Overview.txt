@@ -1,0 +1,5 @@
+Technical Overview
+A multiplayer competitive arena card game using time as a villan.
+
+Thematic
+The year is 4031 and you are a crew member of the spaceship Trinity in a time when a devastating black hole threatens the existence of your galaxy. The Trinity has stalled in deep space and it is up to you and other crew members to salvage enough fuel from nearby planets and stars before your entire galaxy implodes into darkness. But remember, there is only one escape pod on the Trinity.
