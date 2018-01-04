@@ -1,0 +1,167 @@
+CW1) Rearrange your heroes however you'd like (no +1 atk, no dmg dealt) | normal attack (1) | Health - 5
+CW2) normal attack (2) | Health - 5
+CW3) at beginning of next turn draw 1 additional money card (deals dmg (2)) | Health 6
+CW4) Rearrange one opponent hero however you'd like (not +1 atk, no dmg dealt) | normal attack (1) | Health - 6
+CW5) Opponent attacked discards 1 card (2) | Health - 5
+
+UW1) Block the ability to purchase from a pile for 1 turn (deals dmg (2), no +1 attck) |No other attack | Health - 7
+UW2) dmg 3 + # of warriors you have active other than UW2 | no other attack | Health - 6
+UW3) Drunkiness - roll 6d for x dmg, roll 6d for success or hit self (50%) | Health - 9
+UW4) All Opponents discard 1 card (3) | Health - 7
+
+RW1) Passive: if you have 3 or more warriors in play, you may draw an extra card at the beginning of your turn.  no limitations to deck | normal attack (3) | Health - 6
+RW2) Build Rage ++x (0) | release rage (1 + 2x) | Health - 5
+RW3) Destroy an item attached (no dmg) | normal attack (3) | Health - 7
+RW4) Hunker down - attacked next turn takes half dmg rounded down | nomarl attack (4) | Health - 9
+
+---
+
+CM1) Root - can not recall or rearrange hero atkd (deals dmg (2)) | Crystals - 1 | Health - 5
+CM2) Conjure - At any time during your turn draw 1 crd from item deck (passive) | normal attack (3) | Crystals - 3 | Health -  6
+CM3) Charged Spread - (2 dmg | 1 outside) for each 2 crystals over cost +1 to dmg/outside | Crystals - 3 | Health - 7
+CM4) Apply Posion (deals dmg(1)) | Bubble Sheild - this champ can not be hurt more than 2 (passive) | Crystal - 1 | Health - 6
+
+UM1) Transmute - Discard a single card and draw a new card from the pile (passive) | normal attack (3) | Crystals - 2 | Health - 5
+UM2) Chem Bomb - Dmg all reserved heros, including yours (deals dmg (3)) | Fire Oil - normal attack (4) | Crystals - 3 | Health - 6
+UM3) Imperishable - When UM3 is knockedout return UM3 to your hand (passive) | normal attack (4) | Crystals - 2 | Health - 6
+UM4) Dragon's Breath - you may apply dmg to reserved champ (deals dmg (5)) | Crystal - 3 | Health - 4
+UM5) Burn one reserved card (roll dice, success on even) | normal attack (4) | Crystal - 3 | Health - 6
+
+RM1) Spread atk, (5 dmg | 3 outside) | Crystals - 3 | Health - 6
+RM2) normal attack (6) | Crystals - 2 | Health - 6
+RM3) Apply Poision | Lunar Shift - Skip forward 3 turns. Apply posion dmg for those 3 turns. Any hero banished is your kill. | Crystals - 5 | Health - 8
+RM4) Substitution - Place a knocked out champ on top of RM4, play as that champ for 2 turns (discard champ to bottom of discard) | Cyrstals - 2 | Health - 8
+
+___
+
+CE1) Look at top card of a deck, place back on top or in discard pile | Shuffle any discard pile | Health - 5
+CE2) Double crystal value until end of next turn (dmg (2)) | Health - 5
+CE3) Knockout all the cards in one of your reserve piles | Force opponet to reserve a card from their hand, if they can not dmg (2) | Health - 5
+CE4) Move one item between your champs (even reserved) once per turn (passive) | normal attack (2) | Health - 5
+
+UE1) Double cost of a deck until start of your next turn | Double currency value on your next turn | Health - 7
+UE2) You may play with your reserve cards face down (passive) | Your opponents must play with their hands shown (passive) | Health - 3x (x - number of opponents)
+UE3) Turn and Burn - draw champ from deck, and choose to play, resever, or discard | Trip Wire - if opponent places champ, that champ can not attack 1 turn (passive) | Health - 7
+
+RE1) Clone - draw champ from deck, may use champs atk, discard | Mimic - Copy one opponet's champs ability, ignore attached items and crystal costs | Health - 8
+RE2) Burndown - One opponent you choose discards 3 card of your choice without looking, dmg one champ 1 pt of other oponents | Health - 7
+RE3) Sleight of Hand - draw 1 card from each deck, every player passes 2 cards to their left | Reveale top cards of each deck, draw a card revealed or on the discard piles to your hand, discard revealed cards | Health - 7
+
+---
+
+CC1) Cure Poison | Normal Heal (2) +atk | Crystals - 2 | Health - 7
+CC2) Double heal if healing breaker (passive) | Normal Heal (2) +atk | Cyrstals - 3 | Health - 4
+
+UC1) May draw 1 extra item card and 1 money card once per turn (passive) | Normal Heal (2) +atk | Crystals - 1 | Health - 5
+UC2) Double down - item heals have double effect (passive) | Normal Heal (3) +atk | Crystals - 2 | Health - 5
+
+RC1) Bring a knocked out champ back to life to your reserve pile | Normal Heal (5) | Crystals - 5 | Health - 6
+RC2) Spread heal - heal all your champs in play for 2 not including reserve | Normal Heal (4) | Cyrstals - 3 | Health - 5
+RC3) Link - when RC3 is reserved, choose a champ in play, that champ does double dmg poison excluded (reserved passive) | RC3 is knocked out when linked champ is knocked out (no KO points awarded) | Cyrstals - 0 | Health - 7
+
+---
+
+CS1) Draw 1 item card | Draw 1 money card
+CS2) Banish 1 card | Draw 1 card off top of banish pile
+CS3) +1 crystal | +1 coin
+CS4) Deal 1 dmg | Heal 1
+CS5) Draw top card of item discard | Draw top card of money discard
+CS6) Choose an opponent to discard 2 cards | All opponents discard 1 card
+
+US1) Draw 1 champ card | Reveal champ in hand, do not discard at end of your turn
+US2) Apply poision to champ of your choice | Cure poision of champ of your choice
+US3) Banish this card, you may keep 1 card in your hand for next turn | If this card is discarded on top of the discard deck at the end of your turn, you may keep 2 cards in your hand for the next turn
+US4) Deal 2 dmg | Heal 2
+US5) +2 crystals | +2 coins
+US6) Choose opponent champ, that champ can not attack until your next turn | +1 atk
+US7) Draw 1 champ | Draw 2 money, 1 item
+
+RS1) Double crystal effect for your turn | Increase currency value by 1 this turn
+RS2) Choose an opponent that can not pull any cards from their reserve piles on thier next turn | choose an opponent that can not purchase anything on their next turn
+RS3) Deal 3 dmg | Heal 3
+RS4) +3 cyrstals | +3 coins
+RS5) Take control of enemy champ if you have an open slot, discarding all items attached | Take items from one opponent's champ to your hand
+
+---
+
+CG1) Life Blessing - when that champ uses an ability, heal self 2 | Vital Burst - when that champ uses an ability, choose 1 champ to heal 1
+CG2) Sword Buster - Breaking item on dice roll once per turn | Tank Breaker - +1 dmg per item attached to opponents champ
+CG3) May draw item card instead of coin card when drawing coin card | May draw coin card instead of item card when drawing item card
+CG4) Attach to opponent champ, Poison hurts 2 each turn | Attach to own champ, posion heals 1 each turn instead of dmg
+
+UG1) Protection - Give champ sheild (next dmg taken causes no dmg, banish this card) | next attack causes double dmg, banish this card
+UG2) Stealth - this champ can not be atk'd until he atks, banish this card | Taunt - this champ must be atk'd while he is in play
+UG3) Vial of Thorngrasp - attach to opponent champ, if that champ does not attack, 1 dmg to champ attached | Vial of Waterblood - attach to opponent champ, when that champ uses an ability, 1 dgm to champ attached
+UG4) Blindfold - attach to opponent champ, next attack that champ does fails and banishes card | Controled Sight - attach to opponent champ, next attack that champ does target is choosen by you and banishes card
+
+RG1) Undead Eye - all healing is dmg, all dmg is healing | Doom Stone - 3 turns boom
+RG2) Crippling Shot - (3 dmg | 2 outside | 1 outside outside) equipable ability |  - banish a card from each oppponents hand, equipable ability
+RG3) Once per turn, you may re-roll one of the price dice | Once per turn, you may increase a price dice by one
+RG4) This champ can now heal 4 per turn, equipable ability | While this is equiped, champ may move between open reserve and in play, all dmg/items stay on champ
+
+---
+
+Common cards = black border
+Uncommon cards = Silver border
+rare cards = Golden border
+
+
+Scraps:
+
+Priest = Holy Set = no KO point is awarded
+Holy Aegis = Cannot be Banished (all items are banished)
+Purity Robes = Cannot be poisoned
+Blessed Stave = Cannot be attacked for less than 3
+
+Warrior = Lions Set = you may attack 3 times (still pay crystal cost) 
+Fortified Buckler = -2 damage when taking dmg
+Fang Blade = +3 damage to your attacks
+Reinforced Helm = For each point of damage, draw 2 coin card 
+
+Breaker = Iron set = set dice on champ to 7, each pt of dmg taken by champ, reduce dice by 1 instead of champs health, after 0 dice goes away
+Armored Gauntlets - +1 dmg / -1 dmg taken
+Protective Breastplate - all your champs take 1 less dmg when attacked
+Barbed Shoulders - when champ wearing this is attacked, attacker is dmg'd 2
+
+Mage = Nova Set = Your champs no longer have to pay crystals
+Mana Garbs - Any attack dealt to this champ, may subtract from crystals first
+Arcane Ash - +2 dmg to champ wearing arcane ash, +1 dmg to champs next to champ
+Enchanted Necklace - all abilities cost 2 less crystal
+
+
+Engineer = The Blunderbuss = May hit every champ that isnt yours for 2 dmg instead of using your ability
+gun powder - if this champ is attacked, attacking opponent's champs all take 1 dmg
+Brass Casing - when attacking with this champ, if no dmg was delt durning your attack phase, you make attack again
+weathered piping - May hit for 4 dmg instead of using ability
+
+Rouge = QuickWeight Tunic = champ wearing this can attack 2 times
+hidden daggers - when this champ is attacked, he may use an attack
+cloth cloak - when attacked, roll a dice, if even, the attack is unsucessful.
+Quiver - extra reserve pile
+
+Shaman = Tribal Relic = This champ does not need to roll dice for success
+Healing Totem - every ability this champ uses, roll dice, heal itself 2 pt
+Posion Totem - every attack you do, roll dice, applies posion to champ attacked
+Coin Totem - every time this champ is attacked, roll dice, draw 1 coin card
+
+---
+
+Common Gear = Vortex Diamond = Every champ in play on defending opponents takes 1 dmg, all your champs in play heal 1 each turn
+Energy Orb - may heal any champ for 3, equipable ability
+Vanishing Powder - champ may move between reserve and active, keep all dmg, items, ect..
+Shadow Sceptre - may dmg any champ for 3, equipable ability
+
+Uncommon Gear = Throngrasp's Curse = Champ wearing this now rewards 2 KO points
+Vial of Waterblood - if this champ doesnt atk, 1 posion dmg
+Elixer of Fate - this champ can not atk, unless already atk'd, dont banish
+Demons Breath - posion dmg is now 2
+
+
+Rare Gear = Absolution Rod = You may take a second turn each turn
+Vital Lens - When this champ uses an ability, choose a champ to heal 1
+Reverse Aid - posion dmg heals 1
+Blessing of Life - when champ uses an ability, heal this champ 2
+
+
+
+
