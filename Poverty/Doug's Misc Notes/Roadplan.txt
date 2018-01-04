@@ -1,0 +1,32 @@
+Design stage
+  -Functional baseline - the game functions roughly
+  -Artwork baseline - All heroes, items, zones, coins, and layout have concept
+  -Terminology baseline - the game has a rough set of terms for reference
+  -In house testing 
+  -thinktanks occur in this stage
+
+Beta stage
+  -Prototyping begins this stage
+  -Dev Blog begins this stage (After Prototyping)<-- [Should we just ultilize our Website for this?]
+  -Functional perfection - the game is feature finished and only requires tweaks
+  -Artwork perfection - all cards are finished being drawn. Minor tweaks are appropriate
+  -Terminology perfection - the game is not longer under a working name, all terms within the game are clear and appropriate
+  - begin to drum up public awareness (reddit/boardgamegeeks/etc) 
+Lee website [thinktank this] (heavy data games)
+  - Submit game for reviews and into contests
+  - public testing. Get the game into the hands of players who have never played it
+
+PreKick stage
+  - set a clear monetary goal
+  - set a clear rewards,
+  - set clear stretch goals
+  - design kickstarter banners
+  - thinktank kickstarter movie
+  - create kickstarter promo video
+  - continue drumming up hype
+
+Kickstarter stage 
+  - 30 days? 45days?
+  - constant work on this. It's not just launch and walk away
+  - reddit AMA
+  - bgg.com forums posts

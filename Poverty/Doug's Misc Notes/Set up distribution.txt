@@ -1,0 +1,5 @@
+Players  |  Pence  |  Shilling  |  Pound
+2            60         40            30
+3            65         40            30
+4            70         40            30
+5            80         40            30

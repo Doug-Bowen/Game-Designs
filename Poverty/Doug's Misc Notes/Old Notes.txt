@@ -1,0 +1,99 @@
+Heroes
+-Knight: Normal attacks normal defense
+-Cleric: Healer, deals no damage
+Dark Mage: Attacker, with effects (strongest steals a hero)
+Thief: Steals items, deals no damage
+Rouge: Low damaging attacks, has chance to incapacitate opponent (Coin flip)
+Engineer: No damage, aids player phases
+Breaker: Low damage, Doubled defense (looks like a warrior)
+Alchemist: used to gain potions that can be used that turn or held onto for later use (weapon poisons)
+-Archer: can attack benched and active heroes  
+
+
+Items
+Weapons
+Armor
+Zones
+Counter cards (Mana and Health)
+Counter cover cards (2 per player)
+
+
+
+
+Set up:
+-Base cards = Scouts 
+Trash = Banished
+Bank:
+All heroes available in separate decks
+Randomize 7 items (10 of each)
+Random Coin deck (Face down made up of all coins [0,1,2,3])
+Flip top two coins face up
+
+
+Rules:
+10 cards - 3 scouts, 8 gold
+phases: Prepare, Attack, Recycle
+
+Prepare:
+
+move a hero from the bench to the active fight
+
+can retreat from action at the cost of retreat cost as long ass your bench isn't full (no active hero = king is active) 
+play down any support cards in hand
+play down any global cards here
+
+bench as many heroes as possible
+May unequip
+
+May only make 1 buy from the bank.  All buys go to discard (unless stated otherwise)
+Can buy a showing coin for $1 of the top card of the coin deck for $1
+
+
+Attack:
+follow the directions on the attacking hero
+any damage dealt OVER the health of the defending hero, falls onto their king
+
+
+Recycle:
+
+Draw 5 cards, then discard down to 5 cards.
+Discard any temporary items.
+
+
+
+
+Global rules:
+-All attached items are banished/discarded with the fallen hero
+-All heros may only hold 2 weapons at any given time, to unequipped the weapon the play must pay the cost of the card,  then the weapon is discarded. (only 1 armor as well)
+-No Hero may have more than 4 items equipped at any time (unless stated otherise) 
+
+
+
+____________________
+
+Game mode: Takeover
+3+ players
+If you Banish someone's King, your King now Rules over their Heroes. 
+You now play for them and your King can take Overkill damage for either active Hero.
+Play order remains the same.  Decks cannot be mixed.
+
+
+_______________________
+
+Monster Expansion:  Optional play mode for 3+ players
+SetUp:
+1 player is chosen to be the monster and either picks his monster or randomizes it.
+Then, based on the Monster chosen, he shuffles the Attack deck and/or the Mana deck and sets it face down on his bench.  
+
+Playing the game:
+---Taking a turn: 
+----Each turn, the monster player will draw 1 card from either his Attack deck or Mana deck if available.  He may then attach/detach any equipment cards he has (by uitilizing the cards in his hand) and then may play either 1 attack or mana card and follow the instructions on the card.  Monsters are not limited by mana, so feel free to use magic attacks without the worry of mana cost. THey also have no bench.
+----Winning the game:
+----The Monster loses, if he is Banished.
+----The Monster wins, if he eliminates all Kings teamed up against him.
+
+
+Monster decks are made up of physically new cards that are a combination of monster specific cards and cards from the original game tweaked to fit monsters.
+
+
+Legendary cards: items that, when attached, Banish all other attached items. you may not attach any other items to this hero.  this item may not be unequipt.
